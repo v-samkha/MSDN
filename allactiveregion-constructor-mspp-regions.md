@@ -19,7 +19,7 @@ Initializes a new instance of the [AllActiveRegion](https://msdn.microsoft.com/t
 
 <span id="syntaxToggle"></span>public AllActiveRegion()Public Sub New
 
-See Also
+## See Also
 --------
 
 <span id="seeAlsoToggle"></span>

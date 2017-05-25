@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405871(v=PandP.50)'
 
 Prism Class Library
 
-ModuleCatalog..::.AddModule Method (String, String, array&lt;String&gt;\[\]()\[\])
+# oduleCatalog..::.AddModule Method (String, String, array&lt;String&gt;\[\]()\[\])
 ==================================================================================
 
 Adds a groupless [ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo) to the catalog.

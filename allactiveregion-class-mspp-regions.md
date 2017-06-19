@@ -11,8 +11,7 @@ Prism Class Library
 
 Region that keeps all the views in it as active. Deactivation of views is not allowed.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
-
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))  
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -35,7 +34,5 @@ Public Class AllActiveRegion
 
 ## See Also
 
-
-[AllActiveRegion Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.allactiveregion_members(v=pandp.50))
-
+[AllActiveRegion Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.allactiveregion_members(v=pandp.50))  
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))

@@ -16,8 +16,9 @@ Initializes a new instance of the [AllActiveRegion](https://msdn.microsoft.com/t
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
 ## Syntax
 
-
-<span id="syntaxToggle"></span>public AllActiveRegion()Public Sub New
+```C#
+public AllActiveRegion()Public Sub New
+```
 
 ## See Also
 
